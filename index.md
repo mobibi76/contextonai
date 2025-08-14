@@ -9,7 +9,7 @@ title: CONTEXTON Inc.
 
 ---
 
-## [팝업]
+## [공고]
 
 Date & Time :
 <span id="datetime"></span>
@@ -17,7 +17,7 @@ Date & Time :
 
 ---
 
-**[공고]**
+**[안내]**
 
   - 2025.08.14: 폐업확정 부가세(기한후) 신고 예고
       {2025-08-18 성남시 분당세무서 [[세무서 링크](https://j.nts.go.kr/bundang/main.do)]
