@@ -9,7 +9,7 @@ title: CONTEXTON Inc.
 
 ---
 
-## [중요]
+## [팝업]
 
 Date & Time :
 <span id="datetime"></span>
