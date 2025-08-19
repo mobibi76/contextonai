@@ -15,8 +15,8 @@ Date & Time :
 <span id="datetime"></span>
 <script src="/datetime.js"></script>
 
-  - 2025.08.19 채권자 최고 공고 {게시일시 2025/08/19 12:25}<br>
-    {[1차 공고문 보기](https://drive.google.com/file/d/1anNzKVXYw_6BYtPZ_NRdctNatU294WY1/view?usp=sharing)}
+  - **2025.08.19 채권자 최고 공고 {게시일시 2025/08/19 12:25}**<br>
+    {[**1차 공고문 보기**](https://drive.google.com/file/d/1anNzKVXYw_6BYtPZ_NRdctNatU294WY1/view?usp=sharing)}
 
 ---
 
