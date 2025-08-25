@@ -16,7 +16,9 @@ Date & Time :
 <script src="/datetime.js"></script>
 
   - **2025.08.19 채권자 최고 공고 {게시일시 2025/08/19 12:25}**<br>
-    {[**1차 공고문 보기**](https://drive.google.com/file/d/1anNzKVXYw_6BYtPZ_NRdctNatU294WY1/view?usp=sharing)}
+    {[**1차 공고문 보기**](https://drive.google.com/file/d/1anNzKVXYw_6BYtPZ_NRdctNatU294WY1/view?usp=sharing)}<br>
+  - **2025.08.26 채권자 최고 공고 {게시일시 2025/08/26 00:05}**<br>
+    {[**2차 공고문 보기**](https://drive.google.com/file/d/1Q6fDLy7gfP_Mn6-E6U8IONV2A-FMdglw/view?usp=sharing)}
 
 ---
 
